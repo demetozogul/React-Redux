@@ -1,0 +1,28 @@
+import { IProduct } from "../models/IProduct";
+
+export const ProductData: IProduct[] = [{"id":1,"title":"100 Bloody Acres","price":36},
+{"id":2,"title":"Ah, Wilderness!","price":57},
+{"id":3,"title":"Naturally Native","price":65},
+{"id":4,"title":"ReGeneration","price":5},
+{"id":5,"title":"La Soufrière - Warten auf eine unausweichliche Katastrophe","price":47},
+{"id":6,"title":"Where Love Has Gone","price":98},
+{"id":7,"title":"Thick-Walled Room, The (Kabe atsuki heya)","price":74},
+{"id":8,"title":"The Golden Eye","price":65},
+{"id":9,"title":"Day in the Country, A (Partie de campagne)","price":92},
+{"id":10,"title":"Igby Goes Down","price":91},
+{"id":11,"title":"Poltergeist III","price":59},
+{"id":12,"title":"Big White, The","price":17},
+{"id":13,"title":"Profound Desires of the Gods (Kamigami no fukaki yokubo) ","price":57},
+{"id":14,"title":"Cat and the Canary, The","price":39},
+{"id":15,"title":"Werckmeister Harmonies (Werckmeister harmóniák)","price":35},
+{"id":16,"title":"Pulp Fiction","price":70},
+{"id":17,"title":"Dylan Moran: Monster","price":49},
+{"id":18,"title":"Unborn, The","price":13},
+{"id":19,"title":"Slim Susie (Smala Sussie)","price":16},
+{"id":20,"title":"Ferocious","price":32},
+{"id":21,"title":"Three Burials of Melquiades Estrada, The","price":5},
+{"id":22,"title":"Vernon, Florida","price":31},
+{"id":23,"title":"Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu)","price":79},
+{"id":24,"title":"What to Expect When You're Expecting","price":100},
+{"id":25,"title":"Hatari!","price":91}
+]
